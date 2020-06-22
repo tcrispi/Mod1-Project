@@ -3,7 +3,15 @@
 In this project we analyze the IMDB and Box Office Mojo datasets in order to give management recommendation on the types of movie they can invest in to enter the movie production industry.
 
 ## Part I - High Level Analysis
-First, we answer a high-level question, are high quality movies also profitable? Then we perform a high-level analysis of movie performance (profitability, worldwide gross revenue, production budget) by genre, to uncover the best genres to invest in. We zoom in on two consistently top-performing genres, Horror and Animation, and look at their trends over time. By comparing their average budgets, we recognize they represent two different strategies of entrance.
+
+#### Relationship between profitability and movie rating
+First, we answer a high-level question, are high quality movies also profitable? 
+
+#### Gross revenue and profitability by genre
+Then we perform a high-level analysis of movie performance (profitability, worldwide gross revenue, production budget) by genre, to uncover the best genres to invest in. 
+
+#### Closer look at Profit and Revenue trends of top-performing genres
+We zoom in on two consistently top-performing genres, Horror and Animation, and look at their trends over time. By comparing their average budgets, we recognize they represent two different strategies of entrance.
 
 
 ## Part II - Actionable Insights
