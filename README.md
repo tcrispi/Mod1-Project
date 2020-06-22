@@ -28,8 +28,7 @@ Logic: Adventure films tend to have high profile actors/actresses and directors.
 ## Conclusion
 
 #### Depending on the risk profile of Microsoft, we recommend one of two paths:
-1. If the company is looking for more surefire profitability, they should pursue Horror films, and select a writer and a director from our  analyses.
+1. If the company is looking for more surefire profitability (and is looking to limit capital risk), they should pursue Horror films, and select a writer and a director from our analyses.
 
-2. If the company is looking for top line box office success, they should pursue Adventure films, and select actors/actresses and a director from our analyses.
-
+2. If the company is looking for top line box office success (and is willing to take on more capital risk), they should pursue Adventure films, and select actors/actresses and a director from our analyses.
 
